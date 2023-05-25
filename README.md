@@ -10,6 +10,8 @@ This project was bootstrapped for you with [Create React App](https://github.com
 
 ## Available Scripts
 
+#this is a dummy change
+
 In the project directory, you can run:
 
 ### `npm start`
